@@ -1,7 +1,7 @@
-plataforma de conteudo digital, se excreve tem os servicos de pagamento a pessoa tem acesso nos serviçoes de entrega produtos em si.
-com os framework ( nest, Graphiql, apolo, cafica, prisma )
+plataforma de conteudo digital, se escreve tem os servicos de pagamento a pessoa tem acesso nos serviçoes de entrega produtos em si.
+com os framework ( nest, Graphiql, apolo, prisma )
 
-"Primeiro principio do microserviços e  a autaindependencia entre as aplicaçoes que voce desenvolve"
+"Primeiro principio do microsserviços e a interdependência entre as aplicaçoes que voce desenvolve"
 
 "unica responsabilidade do domínio, por aria de entendimentos"
 
@@ -27,20 +27,3 @@ ferramenta de observiabilidade Datadog => conecta em todos os serviços e monito
 --------------------------------------------------------------------
 *streigpatter consegue contruir em aplicação menores
 
-Princípios de microsserviços
-
-Única responsabilidade dentro do
-
-Abc
-
-dominio
-
-• O que é domínio (DDD)?
-
-Autonomia (sem dependências entre
-
-App
-
-(Mic
-
-4
