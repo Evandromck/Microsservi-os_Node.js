@@ -1,0 +1,46 @@
+plataforma de conteudo digital, se excreve tem os servicos de pagamento a pessoa tem acesso nos serviçoes de entrega produtos em si.
+com os framework ( nest, Graphiql, apolo, cafica, prisma )
+
+"Primeiro principio do microserviços e  a autaindependencia entre as aplicaçoes que voce desenvolve"
+
+"unica responsabilidade do domínio, por aria de entendimentos"
+
+"Os microserviços deve ser separado por dominio"
+"cada microserviço tem seu banco de dados"
+
+-----------------------------------------------------------------
+        Beneficios 
+"indenpendencia entre os times"
+"facil manutenção"
+"escalonamento independente, se adaptar ao tanto de carga que ela esta recebendo de uma forma individual sem afetar o restante da aplicação"
+
+      Desafios 
+"Comunicação, como um microserviço se comunica com outro"      
+
+"exemplo mercado livre ja passa de 10mil microserviços" 
+
+"resiliencia entre falhas"
+
+ferramenta de observiabilidade Datadog => conecta em todos os serviços e monitora os serviços
+
+
+--------------------------------------------------------------------
+*streigpatter consegue contruir em aplicação menores
+
+Princípios de microsserviços
+
+Única responsabilidade dentro do
+
+Abc
+
+dominio
+
+• O que é domínio (DDD)?
+
+Autonomia (sem dependências entre
+
+App
+
+(Mic
+
+4
