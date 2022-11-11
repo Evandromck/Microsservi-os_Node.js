@@ -9,12 +9,20 @@ com os framework ( nest, Graphiql, apolo, prisma )
 "cada microserviço tem seu banco de dados"
 
 -----------------------------------------------------------------
-        Beneficios 
+                ********Beneficios*******
+
 "indenpendencia entre os times"
+
 "facil manutenção"
+
 "escalonamento independente, se adaptar ao tanto de carga que ela esta recebendo de uma forma individual sem afetar o restante da aplicação"
 
-      Desafios 
+
+---------------------------------------------------------------
+                      ****Desafios*****
+
+ "observaiabilidade => saber oq esta contecenbdo com a sua aplicação, quantos estão acessando oq esta lento oq esta dando erro."    
+
 "Comunicação, como um microserviço se comunica com outro"      
 
 "exemplo mercado livre ja passa de 10mil microserviços" 
@@ -23,7 +31,29 @@ com os framework ( nest, Graphiql, apolo, prisma )
 
 ferramenta de observiabilidade Datadog => conecta em todos os serviços e monitora os serviços
 
+resiliencia a falha => 
+
 
 --------------------------------------------------------------------
+                ********Backstage***********
+
+base de conhecimento interna voce consegue cadastra todos os seu serviços 
+
+https://backstage.io/
+
+
+---------------------------------------------------------------
+             ********railway********
+
+             
+---------------------------------------------------------------
+
+
+
 *streigpatter consegue contruir em aplicação menores
+
+
+monoliticos é o aposto de microserviços
+
+cada microserviços tem o seu banco
 
