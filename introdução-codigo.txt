@@ -1,1 +1,1 @@
-treinamento fulstack => https://www.udemy.com/course/dev-fullstack/     https://www.udemy.com/course/construindo-um-backend-escalavel-com-nestjs-aws-e-pivotalws/   https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/
+treinamento fulstack => https://www.udemy.com/course/dev-fullstack/     https://www.udemy.com/course/construindo-um-backend-escalavel-com-nestjs-aws-e-pivotalws/   https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/ ggggg
